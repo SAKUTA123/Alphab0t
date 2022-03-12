@@ -25,4 +25,4 @@ Support yt saya [ click here ](https://youtube.com/channel/UCUCIUrN5VfgPqVcJ99gd
 
 Kalo mau bot nya support hapus session.json nya dulu
 
-Setting owner [ setting ](setting.json)
+Setting owner [ setting ](settings.json)
